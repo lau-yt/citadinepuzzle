@@ -1,0 +1,76 @@
+{
+  "landing": {
+    "CITADINE_PUZZLE": "Citadine Puzzle",
+    "WELCOME": "Bienvenidos a citadine puzzle!",
+    "HAVE_FUN": "Diviertase resolviendo puzzles aprendiendo sobre la sustentatibilidad.",
+    "HAVE_FUN_2": "Ordene las imagenes correctamente para recibir valiosas recompensas.",
+    "CONTINUE": "Continuar"
+  },
+  "start": {
+    "DIFFICULTY": "Dificultad",
+    "DIFFICULTY_HELP_1": "La cantidad de piezas que forman la imagen.",
+    "DIFFICULTY_HELP_2": "Facil",
+    "DIFFICULTY_HELP_3": "Medio",
+    "DIFFICULTY_HELP_4": "Dificil",
+    "EASY": "Facil",
+    "MEDIUM": "Medio",
+    "HARD": "Dificil",
+    "SHOW_NUMBER": "Mostrar numeros",
+    "SHOW_NUMBER_HELP": "Cada pieza tiene la ubicacion que le corresponde en la imagen original como ayuda",
+    "CONTRAST": "Contraste",
+    "CONTRAST_HELP": "Se recomienda contraste alto a personas con dificultad al perficibir colores.",
+    "LOW": "Bajo",
+    "HIGH": "Alto",
+    "SIZE": "Medida del puzzle",
+    "SIZE_HELP": "Modificar medida del puzzle.",
+    "REDUCE": "Achicar",
+    "ENLARGE": "Agrandar",
+    "START": "Comenzar"
+  },
+  "board": {
+    "SHUFFLE": "Mezclar",
+    "NEXT": "Proxima Imagen",
+    "SHOW_IMAGE": "Ver Imagen",
+    "REDUCE": "Achicar",
+    "ENLARGE": "Agrandar",
+    "EXIT": "Salir"
+  },
+  "help": {
+    "HOW_TO": "How to play",
+    "TITLE": "Bienvenido al Citadine Puzzle",
+    "HELP_1": "Para desordenar el rompecabezas presioná \"Mezclar\"",
+    "HELP_2": "Para cambiar a la siguiente imagen presioná \"Próxima Imagen\".",
+    "HELP_3": "Para modificar la medida de la imagen presioná \"Achicar\" o \"Agrandar\".",
+    "HELP_4": "Las piezas se moverán haciendo \"click\" sobre cada una de ellas",
+    "HELP_5": "Presiona el botón \"Ver Imagen\" para ver la imagen que deberás armar.",
+    "GOOD_LUCK": "BUENA SUERTE!!!"
+  },
+  "congrats": {
+    "UNBLOCKED": "DESBLOQUEADO",
+    "EXIT": "Salir",
+    "NEXT": "Siguiente Imagen"
+  },
+  "images": {
+    "title": {
+      "GREEN_WALLS": "Muros Verdes",
+      "RETENTION_PONDS": "Estanques de retención",
+      "COMMUNITY_GARDENS": "Jardines Comunitarios",
+      "GREEN_ROOFS": "Terrazas verdes",
+      "MEADOW_CITY": "Prados Urbanos"
+    },
+    "text": {
+      "GREEN_WALLS": "También conocidos como jardines verticales, consisten en una instalación vertical cubierta de plantas de diferentes especies cultivadas con riego y un mantenimiento periódico. Este sistema permite la incorporación de superficie verde en sitios sin superficie horizontal libre, mejorando las condiciones estéticas y ambientales del lugar.",
+      "RETENTION_PONDS": "Son lagunas artificiales que tienen agua de forma permanente por lo que permiten la proliferación de flora y fauna acuáticas. Su profundidad ha de estar comprendida entre 1,2 y 2 m. El volumen de agua constante oculta bancos de sedimentos antiestéticos e incrementa el rendimiento en la eliminación de nutrientes, metales pesados, coliformes y materia orgánica. La característica fundamental que tienen los estanques de retención es su capacidad de eliminación de contaminantes, ya sea por sedimentación o por procesos de biodegradación llevados a cabo por las plantas y microorganismos que allí habitan.",
+      "COMMUNITY_GARDENS": "Un jardín comunitario es una práctica de agricultura comunitaria que tiene lugar en una pequeña zona de tierra ubicada en espacios públicos. Los huertos comunitarios suelen plantarse en parques públicos, escuelas, patios de iglesias, y en lotes abandonados. Estos huertos son recursos compartidos, que son gestionados sin ánimo de lucro. Lo que tienen en común es que son atendidos por una comunidad de personas. Este sistema tiene muchos beneficios. Aumentan el acceso del público a frutos saludables y orgánicas, especialmente en zonas donde la población no puede permitirse comprar alimentos frescos y saludables. Enseñan a los jóvenes de dónde proviene su comida. Permiten a la gente común y corriente desarrollar habilidades de cultivos orgánicos. Y pueden convertir un parque ordinario o un espacio verde en un centro comunitario, donde los residentes se ofrecen como voluntarios para cuidar y cosechar los árboles. Los huertos comunitarios también son un lugar de celebración. Muchos grupos organizan festivales de cosecha y floración, eventos de sidra, talleres de enlatado y mucho más.",
+      "GREEN_ROOFS": "Alternativa que contribuye al aumento de espacios verdes en zonas urbanas de alta densidad. Aportan considerables beneficios ambientales y económicos. Constituyen una posibilidad ante la creciente demanda de verde en los barrios y la escasez de espacios vacantes.",
+      "MEADOW_CITY": "Además de ser una adición colorida a la ciudad, los prados urbanos también tienen importantes beneficios ambientales. Los prados atraen más insectos como abejas y mariposas que ayudarán con la polinización de otras plantas en el área, impulsando el ecosistema local del medio ambiente del centro de la ciudad. En particular, debería ayudar a las mariposas que han disminuido en las áreas urbanas en un 69 por ciento desde 1995 debido a la reducción de los espacios verdes y la gente pavimentando los jardines."
+    },
+    "video": {
+      "GREEN_WALLS": "https://www.youtube.com/watch?v=4mKP9dYQqyI",
+      "RETENTION_PONDS": "https://www.youtube.com/watch?v=N3QSnK3UJdE",
+      "COMMUNITY_GARDENS": "https://www.youtube.com/watch?v=nt4Wg3Et__k",
+      "GREEN_ROOFS": "https://www.youtube.com/watch?v=vEcPgfP120A",
+      "MEADOW_CITY": "https://www.youtube.com/watch?v=DY2tMCr0NR8"
+    }
+  }
+}

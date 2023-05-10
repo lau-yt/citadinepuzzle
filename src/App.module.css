@@ -1,0 +1,33 @@
+.container {
+  justify-content: center;
+  flex-direction: column;
+}
+
+.megaCard {
+  margin: 2% 0% !important;
+  padding: 3% 0%;
+  background-color: #a3d2ca !important;
+  border-radius: 15px;
+}
+
+.megaCardResult {
+  margin: 2% 0% !important;
+  padding: 3% 0%;
+  background-color: #d8c292 !important;
+  border-radius: 15px;
+}
+
+.card {
+  margin: 0% 3%;
+}
+
+.cardContent {
+  border-bottom: 10px solid #eb5e0b;
+  padding: 0% 3%;
+}
+
+.file {
+  border-bottom: 10px solid #eb5e0b;
+  padding: 0% 3%;
+  margin: 0% 3%;
+}

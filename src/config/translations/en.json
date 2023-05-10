@@ -1,0 +1,76 @@
+{
+  "landing": {
+    "CITADINE_PUZZLE": "Citadine Puzzle",
+    "WELCOME": "Welcome to citadine puzzle!",
+    "HAVE_FUN": "Have fun solving puzzles learning about sustainability.",
+    "HAVE_FUN_2": "Order the images correctly to receive valuable rewards.",
+    "CONTINUE": "Continue"
+  },
+  "start": {
+    "DIFFICULTY": "Difficulty",
+    "DIFFICULTY_HELP_1": "The amount of tiles that the image has.",
+    "DIFFICULTY_HELP_2": "Easy",
+    "DIFFICULTY_HELP_3": "Medium",
+    "DIFFICULTY_HELP_4": "Hard",
+    "EASY": "Easy",
+    "MEDIUM": "Medium",
+    "HARD": "Hard",
+    "SHOW_NUMBER": "Show Numbers",
+    "SHOW_NUMBER_HELP": "Each tile has its corresponding location in the original image as a help.",
+    "CONTRAST": "Contrast",
+    "CONTRAST_HELP": "It is recommended to use high contrast to people with seeing difficulties.",
+    "LOW": "Low",
+    "HIGH": "High",
+    "SIZE": "Puzzle Size",
+    "SIZE_HELP": "Change the puzzle size.",
+    "REDUCE": "Reduce",
+    "ENLARGE": "Enlarge",
+    "START": "Start"
+  },
+  "board": {
+    "SHUFFLE": "Shuffle",
+    "NEXT": "Next Image",
+    "SHOW_IMAGE": "Show Image",
+    "REDUCE": "Reduce",
+    "ENLARGE": "Enlarge",
+    "EXIT": "Exit"
+  },
+  "help": {
+    "HOW_TO": "How to play",
+    "TITLE": "Welcome to Citadine Puzzle",
+    "HELP_1": "The tiles are going to move clicking over each one of them",
+    "HELP_2": "To mix up the puzzle press \"Shuffle\"",
+    "HELP_3": "To change to the next image press \"Next Image\".",
+    "HELP_4": "To change the size of the image press \"Reduce\" or \"Enlarge\".",
+    "HELP_5": "Press the button \"Show Image\" to check the complete image.",
+    "GOOD_LUCK": "GOOD LUCK!!!"
+  },
+  "congrats": {
+    "UNBLOCKED": "UNBLOCKED",
+    "EXIT": "Exit",
+    "NEXT": "Next Image"
+  },
+  "images": {
+    "title": {
+      "GREEN_WALLS": "Green Walls",
+      "RETENTION_PONDS": "Retention Ponds",
+      "COMMUNITY_GARDENS": "Community Gardens",
+      "GREEN_ROOFS": "Green Roofs",
+      "MEADOW_CITY": "Meadow Cities"
+    },
+    "text": {
+      "GREEN_WALLS": "Also known as vertical gardens, they consist of a vertical installation covered with plants of different species, grown with irrigation and periodic maintenance. This system allows the incorporation of green surface in sites without a free horizontal surface, improving the aesthetic and environmental conditions of the place.",
+      "RETENTION_PONDS": "They are artificial lagoons that have water permanently so they allow the proliferation of aquatic flora and fauna. Its depth must be between 1.2 and 2 meters. The constant water volume hides unsightly sediment banks and increases performance in removing nutrients, heavy metals, coliforms, and organic matter. The fundamental characteristic of retention ponds is their ability to eliminate pollutants, either by sedimentation or by biodegradation processes carried out by the plants and microorganisms that inhabit there.",
+      "COMMUNITY_GARDENS": "A community garden is a community farming practice that takes place on a small area of ​​land located in public spaces. Community gardens are often planted in public parks, schools, churchyards, and on abandoned lots. These gardens are shared resources, which are managed non-profit. What they have in common is that they are served by a community of people. This system has many benefits. They increase public access to healthy and organic fruits, especially in areas where the population cannot afford to buy fresh and healthy food. They teach young people where their food comes from. They allow ordinary people to develop organic farming skills. And they can turn an ordinary park or green space into a community center, where residents volunteer to care for and harvest the trees. Community gardens are also a place of celebration. Many groups host harvest and bloom festivals, cider events, canning workshops, and much more.",
+      "GREEN_ROOFS": "Alternative that contributes to the increase of green spaces in high-density urban areas. They bring considerable environmental and economic benefits. They are a possibility given the growing demand for green in neighborhoods and the shortage of vacant spaces.",
+      "MEADOW_CITY": "Besides being a colorful addition to the city, urban meadows also have significant environmental benefits. The meadows attract more insects like bees and butterflies that will help with the pollination of other plants in the area, boosting the local ecosystem of the downtown environment. In particular, it should help butterflies that have declined in urban areas by 69 percent since 1995 due to reduced green space and people paving gardens."
+    },
+    "video": {
+      "GREEN_WALLS": "https://www.youtube.com/watch?v=YLJz2IwEmu8",
+      "RETENTION_PONDS": "https://www.youtube.com/watch?v=22JlYQkOY24",
+      "COMMUNITY_GARDENS": "https://www.youtube.com/watch?v=4oYIo3YvdPc",
+      "GREEN_ROOFS": "https://www.youtube.com/watch?v=sQ3veFk1C24",
+      "MEADOW_CITY": "https://www.youtube.com/watch?v=DY2tMCr0NR8"
+    }
+  }
+}
