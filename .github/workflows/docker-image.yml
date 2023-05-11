@@ -40,7 +40,7 @@ jobs:
         release_name: Release $PACKAGE_VERSION
         draft: false
         prerelease: false
-        token: ${{ secrets.TOKEN_UNLP }}
+        opts.auth: ${{ secrets.TOKEN_UNLP }}
 
     - name: Upload package to GitHub Packages
       uses: docker/build-push-action@v2
